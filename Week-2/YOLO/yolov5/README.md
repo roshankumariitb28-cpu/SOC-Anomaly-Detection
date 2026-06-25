@@ -106,3 +106,7 @@ Output location:
 ```text
 runs/detect/exp/
 ```
+
+Conclusion
+
+In this project, I successfully set up the YOLOv5 environment, prepared the dataset, trained the model for 25 epochs, visualized the training results, and performed inference on both images and videos. This project helped me understand the complete workflow of an object detection pipeline using YOLOv5, from model training to evaluating predictions on new data.

@@ -1,15 +1,15 @@
-Anomaly Detection in Surveillance Videos in Real Time
+#Anomaly Detection in Surveillance Videos in Real Time
 
-Seasons of Code 2026
-Web and Coding Club, IIT Bombay
+**Seasons of Code 2026**
+**Web and Coding Club, IIT Bombay**
 
-Project ID: 17
+**Project ID:** 17
 
-Mentors:
+**Mentors:**
 
-Yogesh Sangwan
-James Antil
+-Yogesh Sangwan
+-James Antil
 
-Mentee:
+**Mentee:**
 
-Roshan Kumar
+-Roshan Kumar

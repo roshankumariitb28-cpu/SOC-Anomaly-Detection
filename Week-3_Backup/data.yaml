@@ -1,0 +1,9 @@
+path: ../Dataset/processed
+
+train: train/images
+val: train/images
+
+nc: 1
+
+names:
+  0: person

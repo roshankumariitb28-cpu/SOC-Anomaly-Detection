@@ -23,7 +23,7 @@ The dataset is divided into training and validation sets.
 - Model: YOLOv5m
 - Image Size: 640 × 640
 - Batch Size: 16
-- Epochs: 23
+- Epochs: 24
 - Frozen Layers: Yes
 - Device: CPU
 

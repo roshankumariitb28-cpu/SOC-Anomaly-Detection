@@ -63,9 +63,8 @@ The objective of this week was to prepare the MOT17 dataset for YOLOv5 training,
 * Created the processed dataset and `data.yaml`.
 * Successfully trained YOLOv5s.
 * Successfully trained YOLOv5m.
-
+* Successfully trained YOLOv5m with frozen layers.
+  
 ## Remaining Tasks
-
-* Train YOLOv5m with frozen layers.
 * Compare the performance of YOLOv5s, YOLOv5m, and YOLOv5m with frozen layers.
 

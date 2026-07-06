@@ -34,7 +34,7 @@ The model was trained using YOLOv5. During training, the initial layers of the n
 Training command:
 
 ```bash
-python train.py --img 640 --batch 16 --epochs 23 --weights yolov5m.pt --data data.yaml --freeze 10
+python train.py --img 640 --batch 16 --epochs 24 --weights yolov5m.pt --data data.yaml --freeze 10
 ```
 
 ## Results

@@ -12,4 +12,4 @@ The custom YOLOv7 model was successfully trained on the **Aquarium Dataset** for
 
 The screenshot below shows the generated model weight files after successful training.
 
-![YOLOv7 Trained Weights](screenshots/model_weights.png)
+![YOLOv7 Trained Weights](screenshots_model_weights.png)
